@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SnatchAPP</string>
+    
+    <!-- Device Control -->
+    <string name="device_control_title">Device Control</string>
+    <string name="play_sound_button">Play Sound on Device</string>
+    <string name="play_sound_connecting">Connecting…</string>
+    <string name="play_sound_playing">Playing sound…</string>
+    <string name="play_sound_completed">Sound playback completed</string>
+    <string name="play_sound_failed">Sound playback failed</string>
+    <string name="bluetooth_not_available">Bluetooth not available</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="device_not_found">Device not found</string>
+    <string name="device_not_connectable">Device is not connectable</string>
+    <string name="bluetooth_permission_required">Bluetooth permission required</string>
+    
+    <!-- Audio Recording -->
+    <string name="audio_recording_title">Audio Recording</string>
+    <string name="start_recording_button">Start Recording</string>
+    <string name="stop_recording_button">Stop Recording</string>
+    <string name="recording_status_ready">Ready to record</string>
+    <string name="recording_status_initializing">Initializing…</string>
+    <string name="recording_status_recording">Recording…</string>
+    <string name="recording_status_stopping">Stopping…</string>
+    <string name="recording_status_stopped">Recording stopped</string>
+    <string name="recording_info">Stereo recording will capture both left and right channels simultaneously</string>
+    <string name="microphone_permission_required">Microphone permission required</string>
+    <string name="already_recording">Already recording</string>
+    <string name="recording_error">Recording error: %1$s</string>
+</resources>

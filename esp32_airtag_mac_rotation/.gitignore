@@ -1,0 +1,6 @@
+build/**
+venv/**
+sdkconfig.old
+*.key
+*.raw_key
+.vscode
