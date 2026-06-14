@@ -1,0 +1,29 @@
+Recording Metadata
+==================
+Device MAC: EB:4D:73:8C:D6:46
+Channel: Left Channel
+Sample Rate: 44100 Hz
+Phone Direction at Recording Start: 183°
+RSSI at Recording Start: -79 dBm
+Total Samples: 788544
+Duration: 17.880816 seconds
+
+Timing Information:
+------------------
+First Sample Time (nanos): 283555980933108
+First Sample Time (millis): 1767298532097
+First Sample Time (ISO): 2026-01-02 04:15:32.097
+System Clock (nanos): 283573865471434
+End Time (nanos): 283573865475288
+End Time (millis): 1767298549981
+End Time (ISO): 2026-01-02 04:15:49.981
+Recording Duration (calculated): 17.88454218 seconds
+
+Connection Events:
+------------------
+Play Sound Button Pressed: 1767298532009 (04:15:32.009)
+Connection Established: 1767298534032 (04:15:34.032)
+Connection Establishment Duration: 2023ms (2.023s)
+
+Recording Mode: STEREO (Channel Separated)
+Note: Both channels were recorded simultaneously and are perfectly synchronized

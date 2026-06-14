@@ -1,0 +1,7 @@
+# Captured audio and other binaries: never apply line-ending conversion.
+*.pcm binary
+*.wav binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.apk binary
