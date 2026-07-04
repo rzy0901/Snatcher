@@ -9,6 +9,11 @@ lost devices to discovery, tracking, and physical theft.
 📄 Full appendix: [`doc/Snatcher_AE.pdf`](./doc/Snatcher_AE.pdf) &nbsp;·&nbsp;
 📦 Archive: [Zenodo (concept DOI — always the latest version)](https://doi.org/10.5281/zenodo.20693210)
 
+## 📰 News
+
+- **Jun 19, 2026** — arXiv preprint released: [arXiv:2606.21067](https://arxiv.org/abs/2606.21067).
+- **May 19, 2026** — *Snatcher* accepted at **ACM CCS 2026** 🎉
+
 ![teaser](README.assets/teaser.png)
 
 ## ⚠️ Responsible-disclosure partial release
