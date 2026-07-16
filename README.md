@@ -216,8 +216,26 @@ reproduction validates those algorithms offline.
 
 ## How to cite / archive
 
-Archived on Zenodo — please cite the **concept DOI**, which always resolves to the
-latest version: **[10.5281/zenodo.20693210](https://doi.org/10.5281/zenodo.20693210)**.
+Please cite the paper — [arXiv:2606.21067](https://arxiv.org/abs/2606.21067) (to appear
+in the Proceedings of ACM CCS 2026):
+
+```bibtex
+@misc{ren2026snatcher,
+  title         = {Snatcher: Apple Find My Network Exposes Your Lost Devices To Strangers},
+  author        = {Zhenyu Ren and Yanbo Zhang and Boya Liu and Mo Li},
+  year          = {2026},
+  eprint        = {2606.21067},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CR},
+  doi           = {10.48550/arXiv.2606.21067},
+  url           = {https://arxiv.org/abs/2606.21067},
+  note          = {To appear in Proc. ACM CCS 2026}
+}
+```
+
+The artifact itself is archived on Zenodo under the **concept DOI**, which always
+resolves to the latest version:
+**[10.5281/zenodo.20693210](https://doi.org/10.5281/zenodo.20693210)**.
 
 ## References
 
