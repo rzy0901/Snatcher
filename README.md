@@ -11,6 +11,7 @@ lost devices to discovery, tracking, and physical theft.
 
 ## 📰 News
 
+- **Jul 31, 2026** — The *Snatcher* artifact received the **Artifacts Available**, **Artifacts Evaluated — Functional**, and **Results Reproduced** badges.
 - **Jun 19, 2026** — arXiv preprint released: [arXiv:2606.21067](https://arxiv.org/abs/2606.21067).
 - **May 19, 2026** — *Snatcher* accepted at **ACM CCS 2026** 🎉
 
